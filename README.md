@@ -2,40 +2,44 @@
 
   <!-- BRAND HEADER -->
   <a href="https://github.com/kishikuun">
-    <img src="./assets/i2flabs-header.svg" height="82" alt="kishikuun" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
+      <img alt="kishikuun" src="assets/wordmark-light.svg" width="420">
+    </picture>
   </a>
 
   <br/><br/>
 
-  <!-- 1. HERO MATRIX RAIN & IDENTITY -->
-  <img src="./assets/matrix-banner.svg" width="100%" alt="kishikuun // MATRIX CORE" />
+  <!-- HERO MATRIX RAIN & IDENTITY -->
+  <img src="./assets/matrix-banner.svg" width="100%" alt="KISHIKUUN // MATRIX CORE" />
 
   <br/>
 
-  <!-- 2. BIO & IDENTITY DESCRIPTION -->
+  <!-- SECURITY PLATFORM BADGES -->
   <p align="center">
-    <strong>Systems Architect & Developer</strong><br/>
-    <sub>Engineering autonomous systems, data-driven insights, and algorithmic solutions.</sub>
+    <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-000000?style=flat-square&logo=hackthebox&logoColor=FFFFFF"/></a>
+    <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=FFFFFF"/></a>
+    <a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-000000?style=flat-square&logo=hackerone&logoColor=FFFFFF"/></a>
+    <a href="https://bugcrowd.com"><img src="https://img.shields.io/badge/Bugcrowd-000000?style=flat-square&logo=bugcrowd&logoColor=FFFFFF"/></a>
+    <a href="https://app.intigriti.com"><img src="https://img.shields.io/badge/Intigriti-000000?style=flat-square&logoColor=FFFFFF"/></a>
   </p>
 
   <br/>
 
-  <!-- 3. MATRIX COMMAND PROMPT TYPING -->
+  <!-- MATRIX COMMAND PROMPT TYPING -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=36&lines=System+kernel+loaded+%E2%80%94+ACTIVE;Cognitive+threads+initialized;Compiling+the+future...+ETA%3A+unknown"
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=36&lines=System+kernel+loaded+%E2%80%94+ACTIVE;Initializing+Pentest+Modules...;Compiling+the+future...+ETA%3A+unknown"
     alt="System log"
   />
 
   <br/><br/>
 
-  <!-- 3. MONOCHROME MATRIX BADGES -->
-  <img src="https://img.shields.io/badge/ENTITY-kishikuun-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  <!-- MONOCHROME MATRIX BADGES -->
+  <img src="https://img.shields.io/badge/ENTITY-KISHIKUUN-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ROLE-DEVELOPER-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  <img src="https://img.shields.io/badge/ROLE-SECURITY_RESEARCHER_&_FULLSTACK-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CORE-AUTONOMOUS_SYSTEMS-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SECURITY-ZERO--TRUST-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  <img src="https://img.shields.io/badge/CORE-REDTEAM_&_AIoT-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
 
   <br/><br/>
 
@@ -45,18 +49,20 @@
 
 <br/>
 
+<img alt="security researcher  •  vulnerability hunter  •  chasing CVEs one bug at a time  •  white hat · open source" src="assets/ticker.svg" width="100%">
+
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
 ## 💫 WHO AM I ?
 
 > *"The best way to predict the future is not to wait for it, but to architect it from the bare metal up."*
 
-Hey, I'm **kishikuun**, a tech-driven student and developer based in Vietnam.
+Hey, I'm **Phan Anh Khoa (kishikuun)**, a high school student and tech enthusiast based in Vietnam.
 
-Fascinated by the architecture of computation and data-driven insights, I am passionate about designing algorithmic solutions to real-world challenges. I balance rigorous mathematical thinking with strong global communication skills.
+I am deeply passionate about **IoT, AIoT, AI, and Fullstack Development**, but my biggest passion lies in **Cyber Security, Pentesting, and Redteaming**. I balance rigorous algorithmic thinking with a hacker's mindset to dissect systems and build robust solutions.
 
-* **The Explorer's Mindset:** I don't just build applications; I love dissecting operating system internals, experimenting with new models, and pushing the envelope of technology.
-* **Architectural Craftsmanship:** I believe in building systems that are sovereign, resilient, and crafted with obsessive precision.
+* **The Hacker's Mindset:** I love exploring vulnerabilities, chasing CVEs, and understanding operating system internals from a Redteam perspective.
+* **Fullstack Craftsmanship:** From building scalable web applications to tinkering with hardware (IoT), I believe in creating secure and resilient architectures.
 
 <br/>
 
@@ -73,60 +79,58 @@ Fascinated by the architecture of computation and data-driven insights, I am pas
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Capabilities
+
+### 🛡️ Cyber Security & Redteam
+
+<img alt="terminal boot sequence" src="https://raw.githubusercontent.com/uziii2208/uziii2208/output/terminal.gif" width="100%">
+
+<br/>
+
+### 🌐 MERN Stack & Fullstack Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node_JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### ☕ Core Languages & Ecosystem
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 </p>
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
-## ACTIVE PROCESSES
+## 🧩 Coding Profiles
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kishikuun/Project-A">PROJECT A</a></strong> &nbsp; <code>[PID: 0x01 // KERNEL]</code></p>
-      <p><sub>Sovereign AI Multi-Agent Operating System</sub></p>
-      <p>
-        Autonomous intelligence kernel for the desktop. Integrates neural dynamics for reactive cognition.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/kishikuun/Project-B">PROJECT B</a></strong> &nbsp; <code>[PID: 0x02 // MESH]</code></p>
-      <p><sub>Decentralized P2P Mesh and State Sync Layer</sub></p>
-      <p>
-        Distributed infrastructure connecting autonomous local agent nodes through secure cloud tunneling.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.naukri.com/code360/">
+  <img src="https://img.shields.io/badge/Coding_Ninjas-DD0031?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+  </a>
+</p>
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
-## LOADED MODULES
+## ⚙️ LOADED MODULES
 
 <table width="100%">
   <tr>
-    <td width="18%" valign="middle"><strong>AGENTIC</strong></td>
+    <td width="18%" valign="middle"><strong>AGENTIC & AI</strong></td>
     <td width="82%" valign="middle">
-      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/Multi--Agent_Swarm-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Gemini_Flash-000000?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/Qdrant-000000?style=flat-square" />
@@ -137,44 +141,34 @@ Fascinated by the architecture of computation and data-driven insights, I am pas
     <td width="82%" valign="middle">
       <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Modular-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/DDD-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Event--Driven-000000?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="18%" valign="middle"><strong>SECURITY</strong></td>
     <td width="82%" valign="middle">
-      <img src="https://img.shields.io/badge/Ed25519-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Zero--Trust-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/Machine_Binding-000000?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="18%" valign="middle"><strong>BACKEND</strong></td>
-    <td width="82%" valign="middle">
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pentesting-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Redteam-000000?style=flat-square" />
     </td>
   </tr>
 </table>
 
 <img src="./assets/matrix-divider.svg" width="100%" alt="---" />
 
-<div align="center">
-  <a href="https://vineet221713.io">
-    <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="MasterHead" />
-  </a>
-</div>
+## 📊 Telemetry & Stats
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishikuun&theme=radical"/>
+</p>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kishikuun&show_icons=true&count_private=true&theme=react"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kishikuun&layout=compact&theme=react"/>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=kishikuun&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" />
-  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=kishikuun&theme=dark&hide_border=false" alt="Streak" />
 </div>
 
@@ -198,6 +192,14 @@ Fascinated by the architecture of computation and data-driven insights, I am pas
     <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
     <img alt="github contribution grid snake animation" src="./dist/github-snake.svg">
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://vineet221713.io">
+    <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="MasterHead" />
+  </a>
 </div>
 
 <br/>
