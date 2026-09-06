@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Render the profile hero assets from the ASCII sources in assets/.
 
-Port of the browser renderer at uziii2208.com/js/ascii3d.js so the README and the
+Port of the browser renderer at kishikuun.com/js/ascii3d.js so the README and the
 site are generated from the same model. Standard library only.
 
     python3 scripts/gen_hero.py
@@ -626,15 +626,15 @@ def write(name, content):
 
 def main():
     model = build_model(read_art("ascii-art.txt"))
-    wordmark = read_art("uziii2208.txt")
+    wordmark = read_art("kishikuun.txt")
 
     dark_palette = (DARK_BG_LOW, DARK_BG_MID, DARK_BG_HIGH)
     light_palette = (LIGHT_BG_LOW, LIGHT_BG_MID, LIGHT_BG_HIGH)
 
-    write("hero-dark.svg", build_spinner(model, dark_palette, "uziii2208 logo, rotating"))
-    write("hero-light.svg", build_spinner(model, light_palette, "uziii2208 logo, rotating"))
-    write("wordmark-dark.svg", build_wordmark(wordmark, dark_palette, "uziii2208"))
-    write("wordmark-light.svg", build_wordmark(wordmark, light_palette, "uziii2208"))
+    write("hero-dark.svg", build_spinner(model, dark_palette, "kishikuun logo, rotating"))
+    write("hero-light.svg", build_spinner(model, light_palette, "kishikuun logo, rotating"))
+    write("wordmark-dark.svg", build_wordmark(wordmark, dark_palette, "kishikuun"))
+    write("wordmark-light.svg", build_wordmark(wordmark, light_palette, "kishikuun"))
     write("ticker.svg", build_ticker(TICKER_MESSAGES, "status ticker"))
 
 

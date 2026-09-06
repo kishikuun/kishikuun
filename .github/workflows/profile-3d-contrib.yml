@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: conf/github-profile-3d-contrib.json
+          SETTING_JSON: .src/conf/github-profile-3d-contrib.json
           
       - name: push SVGs to the output-3d branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

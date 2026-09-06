@@ -3,9 +3,9 @@ debug = false
 cursor = "_"
 show_cursor = true
 blink_cursor = true
-user_name = "uziii2208"
+user_name = "kishikuun"
 fps = 15
-color_scheme = "uziii2208"
+color_scheme = "kishikuun"
 
 [files]
 frame_base_name = "frame_"

@@ -20,8 +20,8 @@ import gifos
 
 import gen_hero
 
-USER = "uziii2208"
-IGNORE_REPOS = ["uziii2208"]
+USER = "kishikuun"
+IGNORE_REPOS = ["kishikuun"]
 TIMEZONE = timezone(timedelta(hours=7))
 
 WIDTH = 1000
@@ -42,7 +42,7 @@ RESET = "\x1b[0m"
 
 DETAILS_COLUMN = 57
 
-PROMPT = "%sroot@uziii2208%s ~> " % (WHITE, RESET)
+PROMPT = "%sroot@kishikuun%s ~> " % (WHITE, RESET)
 
 STACK = "Python, C, C++, Assembly, Bash"
 
@@ -54,7 +54,7 @@ ROTATION_FRAMES = 60
 
 
 def crest_frames():
-    """One full rotation of the crest, rendered exactly as uziii2208.com draws it.
+    """One full rotation of the crest, rendered exactly as kishikuun.com draws it.
 
     gen_hero.py is already a port of the site's js/ascii3d.js, so reusing its
     model keeps the GIF and the site the same object at the same 60-column
@@ -94,7 +94,7 @@ def visible_width(line):
 def post_screen(terminal, year):
     terminal.gen_text("", 1, count=20)
     terminal.toggle_show_cursor(False)
-    terminal.gen_text("uziii2208 Modular BIOS v2.6.0", 1)
+    terminal.gen_text("kishikuun Modular BIOS v2.6.0", 1)
     terminal.gen_text("Copyright (C) %s, %sVulnerability Hunter%s" % (year, WHITE, RESET), 2)
     terminal.gen_text("%sGitHub Profile Terminal, Rev 0926%s" % (GRAY, RESET), 4)
     terminal.gen_text("Hyperdope AI Engine - 250Hz", 6)
@@ -164,7 +164,7 @@ def fetch_panel(terminal, stats, year):
         return "%s%s%s%s%s" % (GRAY, label.ljust(17), INK, value, RESET)
 
     details = [
-        "%s uziii2208@GitHub %s" % (BANNER, RESET),
+        "%s kishikuun@GitHub %s" % (BANNER, RESET),
         "--------------",
         field("OS:", "Kali Linux, Ubuntu 22.04"),
         field("Host:", "Hyperdope AI | HowToPwn"),
@@ -194,7 +194,7 @@ def fetch_panel(terminal, stats, year):
     terminal.gen_typing_text("\x1b[91mfastfetc", 1, contin=True)
     terminal.delete_row(1, prompt_col)
     terminal.gen_text("%sfastfetch%s" % (GRAY, RESET), 1, contin=True)
-    terminal.gen_typing_text(" --config uziii2208", 1, contin=True)
+    terminal.gen_typing_text(" --config kishikuun", 1, contin=True)
 
     terminal.toggle_show_cursor(False)
     for offset in range(max(len(logo), len(details))):

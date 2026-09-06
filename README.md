@@ -83,7 +83,7 @@ I am deeply passionate about **IoT, AIoT, AI, and Fullstack Development**, but m
 
 ### 🛡️ Cyber Security & Redteam
 
-<img alt="terminal boot sequence" src="https://raw.githubusercontent.com/uziii2208/uziii2208/output/terminal.gif" width="100%">
+<img alt="terminal boot sequence" src="./assets/terminal.svg" width="100%">
 
 <br/>
 
@@ -198,7 +198,7 @@ I am deeply passionate about **IoT, AIoT, AI, and Fullstack Development**, but m
 
 <div align="center">
   <a href="https://vineet221713.io">
-    <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="MasterHead" />
+    <img src="./assets/masterhead.svg" alt="MasterHead" />
   </a>
 </div>
 
