@@ -96,7 +96,11 @@ Driven by an insatiable curiosity for how complex systems think, communicate, an
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg" alt="Grid Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="./dist/github-snake.svg">
+  </picture>
 </div>
 
 <br/>
