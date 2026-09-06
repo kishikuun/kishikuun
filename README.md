@@ -2,13 +2,13 @@
 
   <!-- BRAND HEADER -->
   <a href="https://github.com/kishikuun">
-    <img src="./assets/i2flabs-header.svg" height="82" alt="Kishikuun" />
+    <img src="./assets/i2flabs-header.svg" height="82" alt="kishikuun" />
   </a>
 
   <br/><br/>
 
   <!-- 1. HERO MATRIX RAIN & IDENTITY -->
-  <img src="./assets/matrix-banner.svg" width="100%" alt="KISHIKUUN // MATRIX CORE" />
+  <img src="./assets/matrix-banner.svg" width="100%" alt="kishikuun // MATRIX CORE" />
 
   <br/>
 
@@ -29,7 +29,7 @@
   <br/><br/>
 
   <!-- 3. MONOCHROME MATRIX BADGES -->
-  <img src="https://img.shields.io/badge/ENTITY-KISHIKUUN-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  <img src="https://img.shields.io/badge/ENTITY-kishikuun-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
   &nbsp;
   <img src="https://img.shields.io/badge/ROLE-DEVELOPER-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
   &nbsp;
@@ -51,7 +51,7 @@
 
 > *"The best way to predict the future is not to wait for it, but to architect it from the bare metal up."*
 
-Hey, I'm **Kishikuun**, a tech-driven student and developer based in Vietnam.
+Hey, I'm **kishikuun**, a tech-driven student and developer based in Vietnam.
 
 Fascinated by the architecture of computation and data-driven insights, I am passionate about designing algorithmic solutions to real-world challenges. I balance rigorous mathematical thinking with strong global communication skills.
 
@@ -208,6 +208,6 @@ Fascinated by the architecture of computation and data-driven insights, I am pas
 
 <div align="center">
   <sub>
-    Engineered by <strong>Kishikuun</strong>
+    Engineered by <strong>kishikuun</strong>
   </sub>
 </div>
